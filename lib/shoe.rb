@@ -6,7 +6,7 @@ def initialize(brand)
 end
 
 attr_reader :brand
-attr_accessor :colour, :size , :material , :condition
+attr_accessor :color, :size , :material , :condition
 
 
 end
