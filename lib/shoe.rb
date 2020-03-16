@@ -16,6 +16,4 @@ def cobble
 puts "Your shoe is as good as new!"
 @brand.condition = "New"
 end
-
-binding.pry
 end
