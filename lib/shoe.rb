@@ -1,11 +1,11 @@
 # Make your shoe class here!
 
-class Shoe 
+class Shoe
 def initialize(brand)
   @brand = brand
 end
 
-attr_reader :brand 
+attr_reader :brand
 
 
 
